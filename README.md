@@ -46,4 +46,5 @@ Informatics
 
 - 💻 GitHub: [@Selviyah](https://github.com/Selviyah)
 - 💼 LinkedIn: Selviyah
+- 🆔 ORCID: [0009-0008-1506-0379](https://orcid.org/0009-0008-1506-0379)
 - 📧 Email: [yahselvi@gmail.com](mailto:yahselvi@gmail.com)
