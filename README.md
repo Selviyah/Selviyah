@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Selviyah
 
-<!--
-**Selviyah/Selviyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student  
+💻 Interested in Web & Mobile Development  
+🌱 Currently learning and building software projects
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Informatics student who enjoys learning about software development and creating useful applications.
+
+I have worked on several academic and personal projects, particularly in web and mobile application development.
+
+## 🛠️ Skills
+
+- HTML & CSS
+- JavaScript
+- TypeScript
+- React / React Native
+- Git & GitHub
+- Figma
+- MySQL
+
+## 📂 Featured Projects
+
+### 🐱 Kucing Pedia
+A project focused on providing structured information about cats through a web/mobile application.
+
+**Tech Stack:** TypeScript
+
+🔗 [View Project](https://github.com/Selviyah/kucing-pedia-project)
+
+## 📫 Contact
+
+- GitHub: [@Selviyah](https://github.com/Selviyah)
+
+## 📫 Contact
+
+- GitHub: [@Selviyah](https://github.com/Selviyah)
