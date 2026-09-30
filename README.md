@@ -38,10 +38,12 @@ A web/mobile application project that provides structured information about cats
 
 ## 🎓 Education
 
-**Informatics Student**
-
-Currently studying Informatics and developing skills in software development, web development, and mobile application development.
+**Universitas Nahdlatul Ulama Yogyakarta**  
+Informatics  
+2023 – Present
 
 ## 📫 Contact
 
-- GitHub: [@Selviyah](https://github.com/Selviyah)
+- 💻 GitHub: [@Selviyah](https://github.com/Selviyah)
+- 💼 LinkedIn: Selviyah
+- 📧 Email: [yahselvi@gmail.com](mailto:yahselvi@gmail.com)
